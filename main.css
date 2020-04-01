@@ -1,0 +1,304 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Myriad Pro;
+}
+
+/* INTRO */
+.intro {
+    height: 100vh;
+}
+
+.intro video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.intro h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    color : white;
+}
+
+.intro section {
+    height: 100vh;
+    color: white;
+}
+
+section h1 {
+    padding-top: 200px;
+    text-align: center;
+    font-size: 80px;
+}
+
+main {
+    direction: ltr;
+    padding: 0 10px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+/* MAIN2 */
+.main2{
+    margin-top : 400px;
+}
+.main2 img {
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.main2-title {
+    color: #1b1b1b;
+    font-family: Myriad Pro;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.main2-title1 {
+    color: #1b1b1b;
+    font-family: Myriad Pro;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: -0.5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.main2-subtitle {
+    color: #8b8b8b;
+    font-family: 'Noto Sans Kr', '맑은 고딕', 'Malgun Gothic', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1.0;
+    letter-spacing: -1px;
+    line-height: 40px;
+    margin-top: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
+/* MAIN3 */
+.main3 {
+    margin-top: 300px;
+}
+.main3 img {
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.main3-title {
+    color: #1b1b1b;
+    font-family: Myriad Pro;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.main3-title1 {
+    color: #1b1b1b;
+    font-family: Myriad Pro;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.main3-subtitle {
+    color: #8b8b8b;
+    font-family: 'Noto Sans Kr', '맑은 고딕', 'Malgun Gothic', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1.0;
+    letter-spacing: -1px;
+    line-height: 40px;
+    margin-top: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/* main4 */
+.main4 {
+    margin-top: 300px;
+}
+
+.main4 img {
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.main4-title {
+    color: #1b1b1b;
+    font-family: Myriad Pro;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.main4-title1 {
+    color: #1b1b1b;
+    font-family: Myriad Pro;
+    text-align: left;
+    font-weight: bold;
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 5px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.main4-subtitle {
+    color: #8b8b8b;
+    font-family: 'Noto Sans Kr', '맑은 고딕', 'Malgun Gothic', sans-serif;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1.0;
+    letter-spacing: -1px;
+    line-height: 40px;
+    margin-top: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+/* outro */
+.outro {
+    height: 100vh;
+}
+
+.outro video {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    margin-top : 150px;
+}
+
+.outro h1 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    color: white;
+}
+
+.outro section {
+    height: 100vh;
+    color: black;
+}
+
+section h1 {
+    padding-top: 200px;
+    text-align: center;
+    font-size: 80px;
+}
+
+main {
+    direction: ltr;
+    padding: 0 10px;
+    display: inline-block;
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/* footer */
+.footer {
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    padding: 20px 0;
+    border: 0px;
+    background: #1b1b1b;
+    margin-top : 200px;
+}
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    height: 100px;
+    position: relative;
+}
+.container div {
+    text-align: left;
+    display: table;
+}
+.container h1 {
+    color: #2E2E2E;
+    font-family: 'GillSansMTPro-Medium',
+    'NotoSans-Regular',
+    Helvetica Neue,
+    Helvetica,
+    Arial,
+    Apple SD Gothic Neo,
+    Malgun Gothic,
+    dotum,
+    sans-serif !important;
+    margin-left: 20%;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 24px;
+}
+.container p {
+    color: #686a6c;
+    font-family: 'GillSansMTPro-Medium',
+    'NotoSans-Regular',
+    Helvetica Neue,
+    Helvetica,
+    Arial,
+    Apple SD Gothic Neo,
+    Malgun Gothic,
+    dotum,
+    sans-serif !important;
+    margin-left : 20%;
+    font-size : 14px;
+}
+.container-left {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+}
+.container-right {
+    position: absolute;
+    width: 50%;
+    height: 100%;
+}
+
+/* https: //myhappyman.tistory.com/5 */
